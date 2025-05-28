@@ -1,12 +1,62 @@
-# React + Vite
+# <Zaheer.dev/> – Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **<Zaheer.dev/>**, the personal portfolio website of **Shaik Zaheer**, an aspiring software developer and frontend engineer. This portfolio showcases my skills, projects, and contact information in a clean, responsive, and modern UI built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+- Built with **React.js** & **Tailwind CSS**
+-  Fully **responsive** for all screen sizes
+-  Sections: Home, About, Skills, Projects, Contact, and Footer
+-  Contact section with working email, GitHub, and LinkedIn links
+-  Stylish gradients and a smooth UI
+-  Resume download option
+-  Deployed with secure external links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Live Preview
+
+> [https://my-portfolio-rosy-zeta-91.vercel.app/](https://your-portfolio-link.co) 
+
+---
+
+##  Tech Stack
+
+- **Frontend**: React.js, JSX
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React Icons
+- **Deployment**: Vercel 
+
+---
+
+## Author
+
+**Shaik Zaheer**  
+📍 Hyderabad, India  
+- [zaheershaik2925@gmail.com](mailto:zaheershaik2925@gmail.com)  
+- [GitHub](https://github.com/zaheershaik01) 
+- [LinkedIn](https://www.linkedin.com/in/shaik-zaheer-01zr/)
+
+---
+
+##  License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+##  Acknowledgements
+
+- Thanks to [Lucide Icons](https://lucide.dev/) for the clean React icons.
+- Inspired by modern portfolio designs on GitHub and Dribbble.
+
+---
+
+Feel free to fork, clone, or contribute. If you like this project, give it a Star on GitHub!
+
+
+
+
+
