@@ -17,6 +17,11 @@ const Projects = () => {
       description: "Console-based Java application to track job applications.",
       github: "https://github.com/zaheershaik01/job-application-tracker",
     },
+    {
+      title: "Remote Patient Monitoring",
+      description: "Remote Parkinson's detection using voice data and Machine Learing via Internet of Things.",
+      github: "https://github.com/zaheershaik01/remote-patient-monitoring",
+    },
   ];
 
   return (
