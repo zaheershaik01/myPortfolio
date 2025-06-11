@@ -23,7 +23,7 @@ const Home = () => {
           engineer.
         </p>
         <a
-          href="/resume.pdf"
+          href="/ResumeZR1.pdf"
           download
           className="mt-6 inline-block bg-purple-700 text-white py-2 px-6 rounded-full shadow-lg hover:bg-purple-800 transition duration-300"
         >
