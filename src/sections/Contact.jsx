@@ -4,7 +4,7 @@ const Contact = () => {
       id="contact"
       className="bg-gradient-to-br from-purple-900 via-indigo-900 to-gray-900 px-4 py-20 flex flex-col items-center text-center text-white"
     >
-      <h2 className="text-3xl font-bold text-purple-400 mb-4">Contact Me</h2>
+      <h2 className="text-3xl font-bold text-black-400 mb-4">Contact Me</h2>
       <p className="text-gray-300 mb-4">Feel free to connect with me:</p>
       <div className="space-y-3 text-lg text-gray-200">
         <p>

@@ -14,16 +14,13 @@ const Home = () => {
           Hi, I'm Shaik Zaheer
         </h1>
         <p className="text-md md:text-lg text-gray-300 mb-4">
-          Aspiring Software Developer | Frontend Developer
+          Aspiring Machine Learning Engineer | Data Analyst
         </p>
         <p className="text-base md:text-lg text-gray-400 leading-relaxed">
-          I'm a passionate frontend developer skilled in building responsive
-          and scalable apps using React JS and Tailwind CSS. I'm also learning
-          Data Structures, Algorithms, and aiming to become a top-tier software
-          engineer.
+          I'm a passionate computer science student specializing in Machine Learning and Data Science. I am skilled in using Python and its libraries to analyze data, build predictive models, and uncover insights. I am currently seeking to apply these skills to solve complex, real-world problems.
         </p>
         <a
-          href="/ResumeZR1.pdf"
+          href="/ResumeZR.pdf"
           download
           className="mt-6 inline-block bg-purple-700 text-white py-2 px-6 rounded-full shadow-lg hover:bg-purple-800 transition duration-300"
         >
