@@ -9,20 +9,29 @@ const About = () => {
       <div className="max-w-4xl bg-black/20 backdrop-blur-lg rounded-2xl p-10 text-center shadow-2xl">
         <h2 className="text-4xl font-bold text-purple-400 mb-6">About Me</h2>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-          I'm <span className="text-purple-300 font-semibold">Shaik Zaheer</span>, a passionate computer science student specializing in Artificial Intelligence and Machine Learning. My foundation in Data Analytics supports my practical experience in building high-accuracy ML models for healthcare and computer vision. I am driven by a curiosity for AI's theoretical foundations and aim to contribute to new advancements through graduate-level research.
+          I'm{" "}
+          <span className="text-purple-300 font-semibold">Shaik Zaheer</span>, a
+          passionate computer science student specializing in Artificial
+          Intelligence and Machine Learning. My foundation in Data Analytics
+          supports my practical experience in building high-accuracy ML models
+          for healthcare and computer vision. I am driven by a curiosity for
+          AI's theoretical foundations and aim to contribute to new advancements
+          through graduate-level research.
         </p>
 
         <div className="space-y-4 text-left text-gray-300 mt-6">
           <div className="flex items-center space-x-3">
             <GraduationCap className="text-purple-400 w-5 h-5" />
             <p>
-              B.Tech CSE @ Kommuri Pratap Reddy Institute of Technology, Hyderabad — <span className="text-purple-300">CGPA: 8.1/10</span>
+              B.Tech CSE @ Kommuri Pratap Reddy Institute of Technology,
+              Hyderabad — <span className="text-purple-300">CGPA: 8.12/10</span>
             </p>
           </div>
           <div className="flex items-center space-x-3">
             <School className="text-purple-400 w-5 h-5" />
             <p>
-              Intermediate @ TMR Junior College, Khammam — <span className="text-purple-300">91.5%</span>
+              Intermediate @ TMR Junior College, Khammam —{" "}
+              <span className="text-purple-300">91.5%</span>
             </p>
           </div>
           <div className="flex items-center space-x-3">
@@ -36,4 +45,3 @@ const About = () => {
 };
 
 export default About;
-

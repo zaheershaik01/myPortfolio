@@ -17,10 +17,14 @@ const Home = () => {
           Aspiring Machine Learning Engineer | Data Analyst
         </p>
         <p className="text-base md:text-lg text-gray-400 leading-relaxed">
-          I'm a passionate computer science student specializing in Machine Learning and Data Science. I am skilled in using Python and its libraries to analyze data, build predictive models, and uncover insights. I am currently seeking to apply these skills to solve complex, real-world problems.
+          I'm a passionate computer science student specializing in Machine
+          Learning and Data Science. I am skilled in using Python and its
+          libraries to analyze data, build predictive models, and uncover
+          insights. I am currently seeking to apply these skills to solve
+          complex, real-world problems.
         </p>
         <a
-          href="/ResumeZR.pdf"
+          href="/Europass CV (updated).pdf"
           download
           className="mt-6 inline-block bg-purple-700 text-white py-2 px-6 rounded-full shadow-lg hover:bg-purple-800 transition duration-300"
         >
@@ -32,4 +36,3 @@ const Home = () => {
 };
 
 export default Home;
-
