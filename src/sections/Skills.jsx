@@ -31,13 +31,13 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="h-screen bg-gradient-to-br from-black via-indigo-900 to-purple-900 px-6 py-10 text-white flex flex-col justify-center overflow-hidden"
+      className="min-h-screen bg-gradient-to-br from-black via-indigo-900 to-purple-900 px-4 py-12 text-white flex flex-col items-center"
     >
       <h2 className="text-4xl font-bold text-center text-purple-400 mb-8">
         Skills
       </h2>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto w-full">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-6xl w-full">
         {skillCategories.map((cat, idx) => (
           <div
             key={idx}
@@ -46,11 +46,11 @@ const Skills = () => {
             <h3 className="text-xl font-semibold text-purple-300 mb-4">
               {cat.title}
             </h3>
-            
+
             <div className="flex flex-wrap justify-center gap-2">
               {cat.skills.map((skill, i) => (
-                <span 
-                  key={i} 
+                <span
+                  key={i}
                   className="bg-purple-900/40 border border-purple-500/30 text-gray-200 px-3 py-1 rounded-full text-sm"
                 >
                   {skill}
